@@ -1,0 +1,3 @@
+Write a one-sentence greeting for a new user.
+Keep the answer simple and friendly.
+
