@@ -30,8 +30,6 @@ llm_eval_pipeline/
 │   ├── aggregator.py            # Group and summarise
 │   ├── validator.py             # Quality checks
 │   └── reporter.py              # Write data_quality_report.json
-├── scripts/
-│   └── generate_fixtures.py     # Run once by AI Agent to produce data/ and tests/fixtures/ CSVs
 ├── reports/                     # Output directory (git-ignored)
 ├── config.py                    # All thresholds, paths, column names
 ├── run_pipeline.py              # CLI entry point: runs all stages end-to-end
